@@ -26,4 +26,4 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and vanilla JavaScript. A fun p
 
 ## 🚀 Live Demo
 
-Play the game live [here](https://your-github-username.github.io/your-repo-name/)! 
+Play the game live [here](https://tic-tac-toe-1190.netlify.app/)! 
